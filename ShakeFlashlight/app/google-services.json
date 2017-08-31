@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1045379191760",
+    "firebase_url": "https://quick-flash-3725d.firebaseio.com",
+    "project_id": "quick-flash-3725d",
+    "storage_bucket": "quick-flash-3725d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045379191760:android:36c108b15899bde2",
+        "android_client_info": {
+          "package_name": "in.springpebbles.shakeflashlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045379191760-ibiahgk3ltnggoq7qe1iqq0l7ftq310p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.springpebbles.shakeflashlight",
+            "certificate_hash": "7643d971214cd98fa3b1c01e6d96b9dc697b589e"
+          }
+        },
+        {
+          "client_id": "1045379191760-5508ll6v8n4en7umpdkshqbom1ssscv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqEV9viWauR6Tei-dmkH-izSCN_42P4iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
